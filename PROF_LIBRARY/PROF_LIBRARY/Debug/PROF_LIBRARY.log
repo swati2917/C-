@@ -1,0 +1,52 @@
+﻿Build started 7/23/2017 4:04:38 PM.
+     1>Project "c:\Users\SWATI\documents\visual studio 2013\Projects\PROF_LIBRARY\PROF_LIBRARY\PROF_LIBRARY.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Library.cpp
+         Library.cpp
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(6): error C2275: 'std::string' : illegal use of this type as an expression
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\xstring(2643) : see declaration of 'std::string'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(6): error C2146: syntax error : missing ')' before identifier 'startName'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(6): error C2059: syntax error : ')'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(7): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(9): error C2065: 'Name' : undeclared identifier
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(9): error C2065: 'startName' : undeclared identifier
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(10): error C2065: 'ID' : undeclared identifier
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(10): error C2065: 'startID' : undeclared identifier
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(11): error C2065: 'CheckedOut' : undeclared identifier
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(12): error C2065: 'ArrSize' : undeclared identifier
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(12): error C2065: 'NCheckedOut' : undeclared identifier
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(17): error C2352: 'LibraryUser::~LibraryUser' : illegal call of non-static member function
+                 c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.h(13) : see declaration of 'LibraryUser::~LibraryUser'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(20): error C2143: syntax error : missing '}' before 'if'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(20): error C2143: syntax error : missing ';' before 'if'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(20): error C2065: 'CheckedOut' : undeclared identifier
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(22): error C2065: 'CheckedOut' : undeclared identifier
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(22): error C2541: 'delete' : cannot delete objects that are not pointers
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(23): error C2065: 'CheckedOut' : undeclared identifier
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(30): error C2679: binary '!=' : no operator found which takes a right-hand operand of type 'const LibraryUser' (or there is no acceptable conversion)
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\system_error(426): could be 'bool std::operator !=(const std::error_condition &,const std::error_code &) throw()'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\system_error(419): or       'bool std::operator !=(const std::error_code &,const std::error_condition &) throw()'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\exception(522): or       'bool std::operator !=(const std::exception_ptr &,std::nullptr_t)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\exception(517): or       'bool std::operator !=(std::nullptr_t,const std::exception_ptr &)'
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\exception(512): or       'bool std::operator !=(const std::exception_ptr &,const std::exception_ptr &)'
+                 while trying to match the argument list '(LibraryUser *const , const LibraryUser)'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(34): error C2675: unary '~' : 'LibraryUser' does not define this operator or a conversion to a type acceptable to the predefined operator
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(39): error C2039: 'rhs' : is not a member of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(40): error C2228: left of '.rhs' must have class/struct/union
+                 type is 'int'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(41): error C2228: left of '.rhs' must have class/struct/union
+                 type is 'int'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(44): error C2059: syntax error : 'if'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(45): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(45): error C2447: '{' : missing function header (old-style formal list?)
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(54): error C2059: syntax error : 'return'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(61): error C2059: syntax error : '}'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(61): error C2143: syntax error : missing ';' before '}'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(63): error C2143: syntax error : missing ';' before '{'
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(63): error C2447: '{' : missing function header (old-style formal list?)
+     1>c:\users\swati\documents\visual studio 2013\projects\prof_library\prof_library\library.cpp(215): fatal error C1004: unexpected end-of-file found
+     1>Done Building Project "c:\Users\SWATI\documents\visual studio 2013\Projects\PROF_LIBRARY\PROF_LIBRARY\PROF_LIBRARY.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.20

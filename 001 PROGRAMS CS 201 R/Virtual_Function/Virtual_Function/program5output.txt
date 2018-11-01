@@ -1,0 +1,485 @@
+Pizza
+Spicy Special
+More than just heat, a medley of peppers and spices
+Medium
+Stuffed
+9
+*
+
+
+
+
+
+Pizza
+Super combo
+Everything but the kitchen sink
+Large
+Thin
+10
+no cheese
+no mushrooms
+extra sauce
+no onions
+*
+
+Pizza
+Pepperoni
+The simple classic
+Medium
+Thick
+8
+*
+
+
+
+
+
+Pizza
+Pepperoni
+The simple classic
+Medium
+Stuffed
+9
+*
+
+
+
+
+
+Pizza
+Super combo
+Everything but the kitchen sink
+FamilyStuffed
+13
+no mushrooms
+no cheese
+extra sauce
+double meat
+extra peppers
+*
+Pizza
+Super combo
+Everything but the kitchen sink
+FamilyStuffed
+13
+extra peppers
+*
+
+
+
+
+Pizza
+Super combo
+Everything but the kitchen sink
+Medium
+Stuffed
+9
+*
+
+
+
+
+
+Pizza
+Pepperoni
+The simple classic
+FamilyStuffed
+13
+double meat
+extra sauce
+*
+
+
+
+Pizza
+Vegetarian
+Only plant products; some assembly required
+Large
+Thick
+10
+no cheese
+no mushrooms
+*
+
+
+
+Pizza
+Combo
+Six toppings piled high
+Small
+Thin
+7
+extra sauce
+extra peppers
+*
+
+
+
+Pizza
+Cheese lovers
+Just cheese, but six kinds of it
+Small
+Stuffed
+8
+extra sauce
+no onions
+*
+
+
+
+Pizza
+Spicy Special
+More than just heat, a medley of peppers and spices
+Small
+Stuffed
+8
+extra sauce
+no cheese
+no onions
+*
+
+
+Pizza
+Cheese lovers
+Just cheese, but six kinds of it
+Large
+Thin
+10
+extra sauce
+no cheese
+no onions
+no mushrooms
+double meat
+*
+Pizza
+Super combo
+Everything but the kitchen sink
+Large
+Stuffed
+11
+no onions
+*
+
+
+
+
+Pizza
+Combo
+Six toppings piled high
+Small
+Stuffed
+8
+no onions
+double meat
+*
+
+
+
+Pizza
+Super combo
+Everything but the kitchen sink
+FamilyThin
+12
+no cheese
+double meat
+extra sauce
+no onions
+*
+
+Pizza
+Vegetarian
+Only plant products; some assembly required
+Large
+Thick
+10
+no mushrooms
+no onions
+extra peppers
+*
+
+
+Pizza
+Cheese lovers
+Just cheese, but six kinds of it
+Medium
+Thin
+8
+extra peppers
+double meat
+no cheese
+*
+
+
+Pizza
+Vegetarian
+Only plant products; some assembly required
+Medium
+Stuffed
+9
+double meat
+extra peppers
+no onions
+no mushrooms
+*
+
+Pizza
+Combo
+Six toppings piled high
+Large
+Stuffed
+11
+no cheese
+extra sauce
+extra peppers
+*
+
+
+Pizza
+Spicy Special
+More than just heat, a medley of peppers and spices
+Small
+Stuffed
+8
+double meat
+*
+
+
+
+
+Pizza
+Cheese lovers
+Just cheese, but six kinds of it
+FamilyThin
+12
+no cheese
+*
+
+
+
+
+Pizza
+Super combo
+Everything but the kitchen sink
+Small
+Stuffed
+8
+extra peppers
+double meat
+extra sauce
+no mushrooms
+*
+
+Pizza
+Vegetarian
+Only plant products; some assembly required
+FamilyStuffed
+13
+*
+
+
+
+
+
+Pizza
+Super combo
+Everything but the kitchen sink
+Large
+Stuffed
+11
+extra peppers
+extra sauce
+no mushrooms
+no onions
+*
+
+Pizza
+Super combo
+Everything but the kitchen sink
+FamilyStuffed
+13
+double meat
+no cheese
+extra peppers
+*
+
+
+Pizza
+Pepperoni
+The simple classic
+Small
+Thick
+7
+*
+
+
+
+
+
+Pizza
+Cheese lovers
+Just cheese, but six kinds of it
+FamilyThin
+12
+no mushrooms
+*
+
+
+
+
+Pizza
+Combo
+Six toppings piled high
+Medium
+Thick
+8
+*
+
+
+
+
+
+Pizza
+Combo
+Six toppings piled high
+Medium
+Thin
+8
+extra peppers
+no mushrooms
+no onions
+no cheese
+*
+
+Pizza
+Super combo
+Everything but the kitchen sink
+Large
+Stuffed
+11
+*
+
+
+
+
+
+Pizza
+Cheese lovers
+Just cheese, but six kinds of it
+Large
+Stuffed
+11
+no cheese
+*
+
+
+
+
+Pizza
+Cheese lovers
+Just cheese, but six kinds of it
+Large
+Thick
+10
+no mushrooms
+no onions
+*
+
+
+
+Sandwich
+Veggie Delight
+Hummus, sprouts, lettuce, tomato, cucumber on white or wheat
+chips
+8Sandwich
+Roast Beef
+Sliced beef, lettuce, tomato; a simple classic
+slaw
+8Sandwich
+Rueben
+Corned beef, sauerkraut, and thousand island dressing on rye; a New York favorite
+fries
+8Sandwich
+Club
+Ham, turkey, and bacon on toast
+chips
+8Sandwich
+BLT
+4 strips bacon, lettuce, tomato, with a touch of mayo on toast
+slaw
+8Sandwich
+Club
+Ham, turkey, and bacon on toast
+slaw
+8Sandwich
+Veggie Delight
+Hummus, sprouts, lettuce, tomato, cucumber on white or wheat
+fries
+8Sandwich
+Veggie Delight
+Hummus, sprouts, lettuce, tomato, cucumber on white or wheat
+slaw
+8Sandwich
+Rueben
+Corned beef, sauerkraut, and thousand island dressing on rye; a New York favorite
+slaw
+8Sandwich
+Club
+Ham, turkey, and bacon on toast
+slaw
+8Sandwich
+Rueben
+Corned beef, sauerkraut, and thousand island dressing on rye; a New York favorite
+fries
+8Sandwich
+Club
+Ham, turkey, and bacon on toast
+fries
+8Sandwich
+Rueben
+Corned beef, sauerkraut, and thousand island dressing on rye; a New York favorite
+chips
+8Sandwich
+Club
+Ham, turkey, and bacon on toast
+chips
+8Sandwich
+Veggie Delight
+Hummus, sprouts, lettuce, tomato, cucumber on white or wheat
+slaw
+8Sandwich
+Rueben
+Corned beef, sauerkraut, and thousand island dressing on rye; a New York favorite
+slaw
+8Sandwich
+Roast Beef
+Sliced beef, lettuce, tomato; a simple classic
+chips
+8Sandwich
+BLT
+4 strips bacon, lettuce, tomato, with a touch of mayo on toast
+fries
+8Sandwich
+Veggie Delight
+Hummus, sprouts, lettuce, tomato, cucumber on white or wheat
+fries
+8Sandwich
+Rueben
+Corned beef, sauerkraut, and thousand island dressing on rye; a New York favorite
+chips
+8Sandwich
+Roast Beef
+Sliced beef, lettuce, tomato; a simple classic
+slaw
+8Sandwich
+Club
+Ham, turkey, and bacon on toast
+chips
+8Sandwich
+Veggie Delight
+Hummus, sprouts, lettuce, tomato, cucumber on white or wheat
+fries
+8Sandwich
+Roast Beef
+Sliced beef, lettuce, tomato; a simple classic
+chips
+8

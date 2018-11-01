@@ -1,0 +1,14 @@
+﻿Build started 7/23/2017 6:05:40 PM.
+     1>Project "c:\Users\SWATI\documents\visual studio 2013\Projects\QuickSort_MergeSort\QuickSort_MergeSort\QuickSort_MergeSort.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Vehicle.cpp
+         Vehicle.cpp
+     1>c:\users\swati\documents\visual studio 2013\projects\quicksort_mergesort\quicksort_mergesort\vehicle.cpp(68): error C2556: 'const Polynomial Polynomial::operator +(const Polynomial &) const' : overloaded function differs only by return type from 'const Polynomial &Polynomial::operator +(const Polynomial &) const'
+                 c:\users\swati\documents\visual studio 2013\projects\quicksort_mergesort\quicksort_mergesort\vehicle.h(43) : see declaration of 'Polynomial::operator +'
+     1>c:\users\swati\documents\visual studio 2013\projects\quicksort_mergesort\quicksort_mergesort\vehicle.cpp(68): error C2373: 'Polynomial::operator +' : redefinition; different type modifiers
+                 c:\users\swati\documents\visual studio 2013\projects\quicksort_mergesort\quicksort_mergesort\vehicle.h(43) : see declaration of 'Polynomial::operator +'
+     1>Done Building Project "c:\Users\SWATI\documents\visual studio 2013\Projects\QuickSort_MergeSort\QuickSort_MergeSort\QuickSort_MergeSort.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.32

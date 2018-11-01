@@ -1,0 +1,11 @@
+﻿Build started 6/19/2017 1:02:38 AM.
+     1>Project "c:\Users\SWATI\documents\visual studio 2013\Projects\array.cpp\array.cpp\array.cpp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt array.cpp
+         array.cpp
+     1>c:\users\swati\documents\visual studio 2013\projects\array.cpp\array.cpp\array.cpp(30): fatal error C1075: end of file found before the left brace '{' at 'c:\users\swati\documents\visual studio 2013\projects\array.cpp\array.cpp\array.cpp(8)' was matched
+     1>Done Building Project "c:\Users\SWATI\documents\visual studio 2013\Projects\array.cpp\array.cpp\array.cpp.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.32

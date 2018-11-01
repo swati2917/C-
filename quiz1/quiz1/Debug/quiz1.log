@@ -1,0 +1,16 @@
+﻿Build started 7/22/2017 6:10:25 PM.
+     1>Project "c:\Users\SWATI\documents\visual studio 2013\Projects\quiz1\quiz1\quiz1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\swati\documents\visual studio 2013\projects\quiz1\quiz1\source.cpp(27): warning C4551: function call missing argument list
+     1>c:\users\swati\documents\visual studio 2013\projects\quiz1\quiz1\source.cpp(32): warning C4551: function call missing argument list
+     1>c:\users\swati\documents\visual studio 2013\projects\quiz1\quiz1\source.cpp(20): warning C4930: 'std::string ResetGame(char,char)': prototyped function not called (was a variable definition intended?)
+     1>c:\users\swati\documents\visual studio 2013\projects\quiz1\quiz1\source.cpp(21): warning C4930: 'std::string ResignGame(char,char)': prototyped function not called (was a variable definition intended?)
+     1>c:\users\swati\documents\visual studio 2013\projects\quiz1\quiz1\source.cpp(25): error C4700: uninitialized local variable 'a' used
+     1>c:\users\swati\documents\visual studio 2013\projects\quiz1\quiz1\source.cpp(30): error C4700: uninitialized local variable 'b' used
+     1>Done Building Project "c:\Users\SWATI\documents\visual studio 2013\Projects\quiz1\quiz1\quiz1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.57
